@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! I'm Djaiton 👋
 
 <!--
 **yaakam/yaakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Wakatime weekly stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+# Github Stats 
+[![Yaakam's github stats](https://github-readme-stats.vercel.app/api?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/yaakam) [![Yaakam's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/yaakam)
