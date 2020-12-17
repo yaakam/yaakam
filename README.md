@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Wakatime weekly stats
+### Wakatime weekly stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-# Github Stats 
+### Github Stats 
 [![Yaakam's github stats](https://github-readme-stats.vercel.app/api?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/yaakam) [![Yaakam's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/yaakam)
