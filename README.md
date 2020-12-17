@@ -24,3 +24,10 @@ No Activity tracked this Week
 
 ### Github Stats 
 [![Yaakam's github stats](https://github-readme-stats.vercel.app/api?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/yaakam) [![Yaakam's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/yaakam)
+
+#### Find me elsewhere
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/drobertes" target="_blank">
+    <img src="./icons/LI-In-Bug.png" alt="linkedin" width="32" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p> 
