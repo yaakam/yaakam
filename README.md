@@ -2,8 +2,7 @@
 
 ### Things I code with
 
-<img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white" /> 
-<img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.net&logoColor=white" /> 
+<img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white"/> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.net&logoColor=white" /> 
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white" /> 
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /> 
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat&logo=css3&logoColor=white" /> 
