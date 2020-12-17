@@ -7,10 +7,11 @@
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-157286?style=flat&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Vuejs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
+[![Vuejs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
+[![Laravel](https://img.shields.io/badge/-Laravel-fb503b?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
 
 <!--
 **yaakam/yaakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
