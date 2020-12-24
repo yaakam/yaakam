@@ -13,7 +13,7 @@
 [![Vuejs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![Laravel](https://img.shields.io/badge/-Laravel-fb503b?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
 
-- 🌱 I’m currently learning Symofony
+- 🌱 I’m currently learning Symfony
 
 <!--
 - 🔭 I’m currently working on ...
