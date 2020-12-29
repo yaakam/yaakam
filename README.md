@@ -28,7 +28,7 @@
 ### Wakatime weekly stats
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2020 - 27 December, 2020
+Week: 21 December, 2020 - 28 December, 2020
 
 C#       21 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.44 % 
 Other    4 hrs 33 mins   ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.73 % 
