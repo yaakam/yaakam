@@ -39,7 +39,7 @@ HTML         1 hr            ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 ### Github Stats 
-[![Yaakam's github stats](https://github-readme-stats.vercel.app/api?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/yaakam) [![Yaakam's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/yaakam)
+[![Yaakam's github stats](https://github-readme-stats.vercel.app/api?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/yaakam)
 
 #### Find me elsewhere
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drobertes)
