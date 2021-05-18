@@ -22,7 +22,7 @@
 ### Wakatime weekly stats
 <!--START_SECTION:waka-->
 ```text
-Week: 09 May, 2021 - 16 May, 2021
+Week: 10 May, 2021 - 17 May, 2021
 
 C#       19 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.48 % 
 Other    3 hrs 54 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.85 % 
