@@ -10,7 +10,9 @@
 -->
 ### Github Stats 
 [![Yaakam's github stats](https://github-readme-stats.vercel.app/api?username=yaakam&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/yaakam)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaakam&layout=compact&theme=gruvbox)](https://github.com/yaakam)
+
+### Wakatime
+[![Yaakam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yaakam)](https://wakatime.com/@Yaakam)
 
 #### Find me elsewhere
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drobertes)
